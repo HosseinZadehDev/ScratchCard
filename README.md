@@ -1,2 +1,2 @@
 # ScratchCard
-preview : url(https://preview.hosseinzadeh.website/ScratchCard/)
+preview : https://preview.hosseinzadeh.website/ScratchCard
